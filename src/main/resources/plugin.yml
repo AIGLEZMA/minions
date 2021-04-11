@@ -1,0 +1,8 @@
+name: Minions
+main: me.aiglez.minions.MinionsPlugin
+version: 2.0-SNAPSHOT
+author: AigleZ
+depend: [TokenEnchant, Vault]
+commands:
+  minions:
+    aliases: [minion]
